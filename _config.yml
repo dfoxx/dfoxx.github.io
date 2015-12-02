@@ -1,6 +1,6 @@
 # Site settings
 title: dfoxx
-email: David <david@dfoxx.com>
+email: david@dfoxx.com
 description: > # this means to ignore newlines until "baseurl:"
   "I am easily satisfied with the very best."
 baseurl: "" # the subpath of your site, e.g. /blog/
