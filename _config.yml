@@ -1,0 +1,12 @@
+# Site settings
+title: dfoxx
+email: david@dfoxx.com
+description: > # this means to ignore newlines until "baseurl:"
+  "I am easily satisfied with the very best."
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://dfoxx.github.io" # the base hostname & protocol for your site
+twitter_username: davidfoxx
+github_username:  dfoxx
+
+# Build settings
+markdown: kramdown
