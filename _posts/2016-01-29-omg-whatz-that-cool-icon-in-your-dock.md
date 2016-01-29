@@ -2,7 +2,7 @@
 layout: post
 title:  "OMG whatz that cool icon in your dock?"
 date:   2016-01-29 18:25:27
-categories: tools, applications, workspace, programming, LAMP
+categories: tools
 ---
 I work on web application development using the LAMP stack, because it's cheaper. I use OS X, it's just my preference, not cheaper. [Atom](https://atom.io) is my current text editor, [Sequel Pro](http://www.sequelpro.com) I use for database management, and the OS X Terminal app with [TotalTerminal](http://totalterminal.binaryage.com) for the ~ hotkey. I'm not really fucking with iTerm 2 or Sublime Text 2 (almost 3)... I have my reasons. Another good little app is [Spectacle](https://www.spectacleapp.com), helps me organize my desktop windows etc. Been using [Homebrew](http://brew.sh) for a while, package manager for OS X, helps if you want to install a local copy of MySQL or PHP. A good tool to use with that is [Cakebrew](https://www.cakebrew.com), provides a little UI.
 
