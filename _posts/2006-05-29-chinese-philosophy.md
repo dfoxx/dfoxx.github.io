@@ -35,13 +35,13 @@ Unlike the Confucian philosophy of leadership and morality Laozi proposes that t
 Laozi deals with the philosophy of cause and effect and how this relationship is relative.  With an emphasis on the natural course of the universe Laozi relates the concept of Dao as the way to a virtuous life, and the fulfillment of the self free from desire.
 
 ### Works Cited
-Bingcong, He. "Divination with the Book of Changes". 	<http://www.eng.taoism.org.hk/daoist-scriptures/major-scriptures/pg3-2-3b.asp>.
-Chan, Alan. "Laozi". National University of Singapore. 	<http://plato.stanford.edu/entries/laozi/>.
-"Confucianism." Wikipedia, The Free Encyclopedia. Wikimedia Foundation, Inc. 	<http://en.wikipedia.org/w/index.php?title=Confucianism&oldid=55833082>.
-"Confucius." Wikipedia, The Free Encyclopedia. Wikimedia Foundation, Inc. 	<http://en.wikipedia.org/w/index.php?title=Confucius&oldid=55605096>.
-Hansen, Chad. "Taoism". University of Hong Kong. 	<http://plato.stanford.edu/entries/taoism/>.
-"Laozi." Wikipedia, The Free Encyclopedia. Wikimedia Foundation, Inc. 	<http://en.wikipedia.org/w/index.php?title=Laozi&oldid=55833234>.
-Le Guin, Ursula K.. Lao Tzu : Tao Te Ching : A Book About the Way and the Power of 	the Way. Boston: Shambala Publications, 1997.
-Reigel, Jeffery. "Confucius". University of California Berkeley. 	<http://plato.stanford.edu/entries/confucius/>.
-"Tao Te Ching." Wikipedia, The Free Encyclopedia. Wikimedia Foundation, Inc. 	<http://en.wikipedia.org/w/index.php?title=Tao_Te_Ching&oldid=55855363>.
-Yutang, Lin. The Wisdom of Confucius. Modern Library, 1994.
+* Bingcong, He. "Divination with the Book of Changes". 	<http://www.eng.taoism.org.hk/daoist-scriptures/major-scriptures/pg3-2-3b.asp>.
+* Chan, Alan. "Laozi". National University of Singapore. 	<http://plato.stanford.edu/entries/laozi/>.
+* "Confucianism." Wikipedia, The Free Encyclopedia. Wikimedia Foundation, Inc. 	<http://en.wikipedia.org/w/index.php?title=Confucianism&oldid=55833082>.
+* "Confucius." Wikipedia, The Free Encyclopedia. Wikimedia Foundation, Inc. 	<http://en.wikipedia.org/w/index.php?title=Confucius&oldid=55605096>.
+* Hansen, Chad. "Taoism". University of Hong Kong. 	<http://plato.stanford.edu/entries/taoism/>.
+* "Laozi." Wikipedia, The Free Encyclopedia. Wikimedia Foundation, Inc. 	<http://en.wikipedia.org/w/index.php?title=Laozi&oldid=55833234>.
+* Le Guin, Ursula K.. Lao Tzu : Tao Te Ching : A Book About the Way and the Power of 	the Way. Boston: Shambala Publications, 1997.
+* Reigel, Jeffery. "Confucius". University of California Berkeley. 	<http://plato.stanford.edu/entries/confucius/>.
+* "Tao Te Ching." Wikipedia, The Free Encyclopedia. Wikimedia Foundation, Inc. 	<http://en.wikipedia.org/w/index.php?title=Tao_Te_Ching&oldid=55855363>.
+* Yutang, Lin. The Wisdom of Confucius. Modern Library, 1994.
