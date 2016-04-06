@@ -30,7 +30,7 @@ Only up until recently and within the past two decades have we seen a decline in
 The representations of terrorism and the figure of the terrorist remain largely undefined in that both sides share the casualties of conflict. It is hard to say whether one representation of terrorism has more validity than the other be it from a "national, ethnic, or religious group" or a State-sponsored terrorism. The legacies of the violent conflict in Ireland serve as a reminder of the nature of such conflicts and the nature of terrorism and the terrorist as a product of fear.
 
 ### Works Cited
-Alexander, Yonah (1991). The Irish Terrorism Experience. Hampshire, England: Dartmouth.
-Deane, Seamus (1996). Reading in the Dark. London: Vintage Books.
-O'Day, Alan (1995). Terrorism's Laboratory . Hampshire, England: Dartmouth.
-Trevor, William (2002). The Story of Lucy Gault. London: Penguin Books.
+* Alexander, Yonah (1991). The Irish Terrorism Experience. Hampshire, England: Dartmouth.
+* Deane, Seamus (1996). Reading in the Dark. London: Vintage Books.
+* O'Day, Alan (1995). Terrorism's Laboratory . Hampshire, England: Dartmouth.
+* Trevor, William (2002). The Story of Lucy Gault. London: Penguin Books.
