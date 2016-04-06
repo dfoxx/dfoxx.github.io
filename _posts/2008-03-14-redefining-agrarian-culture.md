@@ -21,10 +21,9 @@ The extent to which an agrarian culture has founded the bases of regional identi
 
 
 ### Works Cited
-
-Caldwell, Erskine. God's Little Acre. New York: Grosset & Dunlap, 1933.
-Core, George. "The Dominion of the Fugitives and Agrarians." The American South: Portrait of a Culture. 1980.
-Jones, Suzanne W. "I'll Take My Land: Contemporary Southern Agrarians." South To A New Place: Region, Literature, Culture. 2002.
-O'Connor, Flannery. A Good Man is Hard to Find: And Other Stories. London: Women's Press Ltd, 1980.
-Rubin, Louis D. "The American South: The Continuity of Self-Definition." The American South: Portrait of a Culture. 1980.
-Tindall, George B. "The Resurgence of Southern Identity." The American South: Portrait of a Culture. 1980.
+* Caldwell, Erskine. God's Little Acre. New York: Grosset & Dunlap, 1933.
+* Core, George. "The Dominion of the Fugitives and Agrarians." The American South: Portrait of a Culture. 1980.
+* Jones, Suzanne W. "I'll Take My Land: Contemporary Southern Agrarians." South To A New Place: Region, Literature, Culture. 2002.
+* O'Connor, Flannery. A Good Man is Hard to Find: And Other Stories. London: Women's Press Ltd, 1980.
+* Rubin, Louis D. "The American South: The Continuity of Self-Definition." The American South: Portrait of a Culture. 1980.
+* Tindall, George B. "The Resurgence of Southern Identity." The American South: Portrait of a Culture. 1980.
