@@ -32,8 +32,8 @@ What makes these child narrators so trapped is that we naturally see what they c
 
 
 ### Works Cited
-Adams, Lorraine. The Dissident's Son." New York Times 4 Mar 2007: 8.
-Gunesekera, Romesh. Reef. London: Granta Publications, 1994.
-Jazeel , Tariq. "Unpicking Sri Lankan 'island-ness' in Romesh Gunesekera's Reef." Journal of Historical Geography 29(2003): 582.
-Mallot, Edward J.. ""We Are Only What We Remember, Nothing More": History and Healing in Romesh Gunesekera's Reef." Journal of Commonwealth Literature 42(2007): 83.
-Matar, Hisham. In the Country of Men. London: Penguin Books, 2007.
+* Adams, Lorraine. The Dissident's Son." New York Times 4 Mar 2007: 8.
+* Gunesekera, Romesh. Reef. London: Granta Publications, 1994.
+* Jazeel , Tariq. "Unpicking Sri Lankan 'island-ness' in Romesh Gunesekera's Reef." Journal of Historical Geography 29(2003): 582.
+* Mallot, Edward J.. ""We Are Only What We Remember, Nothing More": History and Healing in Romesh Gunesekera's Reef." Journal of Commonwealth Literature 42(2007): 83.
+* Matar, Hisham. In the Country of Men. London: Penguin Books, 2007.
