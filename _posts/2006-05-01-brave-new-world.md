@@ -23,4 +23,5 @@ However, for characters like Bernard Marx and Helmholtz Watson the limitations p
 
 The appeal of a society like the utopia of a World State is universal, every individual can relate to some aspect of the state and its perfection of society.  This utopia comes at the cost of humanity and basic human nature by creating machines rather than people.  Control is the primary purpose the state.  Through each stage of development the citizens are programmed to become a child of the state, each unit dependent upon the collective.  Instead of religion, art, and true science the civilization of the Brave New World has chosen to limit these facets of humanity by the demands of mass production.  The World State is maintained by the control of science, the manipulation of religion, and the power of the leadership to provide direction and purpose to the masses.
 
-Huxley, Aldous. Brave New World. New York: Harper & Row, Publishers, Inc., 1969.
+### Works Cited
+* Huxley, Aldous. Brave New World. New York: Harper & Row, Publishers, Inc., 1969.
