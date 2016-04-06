@@ -30,8 +30,7 @@ There are however some drawbacks to using art and literature to explain cultures
 The impact on, and definition of, humanity in art and literature creates a universal understanding that breaks down the barriers between cultural and political forms of expression.  By isolating the misconstrued ideologies of a culture it becomes clear that the key to understanding a universal declaration of human rights is only a starting point.  These works reflect a redefinition of the cultural and political layers surrounding the basic human core and serve to explore broader meanings of humanity. Through them we experience self realization that issues of the world are clouded with ideologies and in order to prevail we must be willing to abandon these ideologies in the face of understanding the importance of every human being as part of larger system of support.
 
 ### Works Cited
-
-Krog, Antjie. Country of My Skull: Guilt, Sorrow, and the Limits of Forgiveness in the New South Africa. New York: Three Rivers Press, 1999.
-No More Tears Sister. Dir. Helene Klodawsky. DVD. National Film Board of Canada, 2005.
-Pachen, Ani, and Adelaide Donnelley. Sorrow Mountain. New York: Kodansha America, Inc., 2000.
-Marsden, Peter H.. Towards a Transcultural Future: Literature and Human Rights in a Post-Colonial World. Amsterdam: Rodopi, 2004.
+* Krog, Antjie. Country of My Skull: Guilt, Sorrow, and the Limits of Forgiveness in the New South Africa. New York: Three Rivers Press, 1999.
+* No More Tears Sister. Dir. Helene Klodawsky. DVD. National Film Board of Canada, 2005.
+* Pachen, Ani, and Adelaide Donnelley. Sorrow Mountain. New York: Kodansha America, Inc., 2000.
+* Marsden, Peter H.. Towards a Transcultural Future: Literature and Human Rights in a Post-Colonial World. Amsterdam: Rodopi, 2004.
