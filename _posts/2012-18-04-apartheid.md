@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apartheid: An Economic Policy"
-date: 2012-18-04
+date: 2012-18-04 00:00:00
 ---
 The rise of apartheid in South Africa is arguably the single most defining event in the nation's short history. Beyond the idea of segregation, apartheid represented the legal institution of white supremacy.  During the period following independence from the British Crown, the South African Parliament passed a series of laws that limiting the economic development of the "native" population, the paramount of which was the Natives Land Act of 1913.  These policies formed the basis of apartheid whereby the government was able to restrict the economic, political, and social development of the largest portion of the population.  Despite the obvious racial, social, and religious overtones that dominated the public opinion of the institution, I argue that the role of apartheid was, more accurately, a tool of economy and capitalism.  In order to explain this argument in greater detail it's important to assess the historical context in which apartheid was able to flourish, starting with the formation of the Union of South Africa, and how the government's portrayal of this system provided the white minority with a moral justification for its implementation.
 ### Independence and The Segregation Era
