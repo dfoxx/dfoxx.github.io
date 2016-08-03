@@ -38,3 +38,18 @@ The government espoused the idea that the ANC was violent as a result of its obv
 As a former British colony, South Africa was a member of the Commonwealth of Nations, including other former colonies like Canada, Australia, and New Zealand; however, the policies of the National Party evoked a strong response from many in the British Parliament, denouncing the policies.  On February 3, 1960, British Prime Minister Sir Harold Macmillan addressed a joint session of the South African Parliament regarding Britain’s position on the policies of apartheid.  Macmillan appealed to the members of parliament, urging them to reevaluate their policies as they were not in agreement with Britain’s “own deep convictions about the political destinies of free men.”  Macmillan also made it clear that it would be economically difficult should a country (South Africa) choose not side with the Britain on these particular issues of policy, “the fact is that in this modern world no country, not even the greatest, can live for itself alone.”
 
 Subsequently, in 1960 the government held a Referendum to withdraw from the Commonwealth, which led to the establishment of the Republic of South Africa.  In Nelson Mandela’s statement provided at the Rivonia trial in 1964, one of the issues brought up was the fact that, “Africans, who constituted approximately 70% of the population of South Africa, were not entitled to vote, and were not even consulted about the proposed constitutional change.”  The government saw it was necessary for the government to maintain their valued policies of apartheid and the benefits it provided economically, so much so that they were willing to dissolve their economic and political ties with the Commonwealth and Great Britain.
+
+### Footnotes
+1. Edgar Brookes, The Limits of Liberalism, 1939 (Part 4, § A, Doc. 1, p. 246)
+2. Fagan Commission, The United Party Reviews Race Relations, 1946 (Part 4, § A, Doc. 2, p. 248)
+3. Ibid., (p. 251)
+4. Hendrik F. Verwoerd, The National Party Native Minister Explains Apartheid, 1950 (Part 4, § A, Doc. 3, p. 254)
+5. Ibid., (p. 255)
+6. The ANC Programme of Action, 1949 (Part 4, § B, Doc. 3, p. 262)
+7. Albert Luthuli, Albert Luthuli Is Removed as Chief of the Umtoti Mission Reserve, 1952 (Part 4, § B, Doc. 4, p. 265)
+8. Nelson Mandela, Nelson Mandela Explains the ANC Struggle, 1964 (Part 4, § C, Doc. 2, p. 300)
+9. Mr. Trengove (Prosecutor), A Treason Trial Defendant Is Questioned About Communism and Violence, 1960 (Part 4, § B, Doc. 9, p. 288)
+10. Ibid., (p. 289)
+11. Ibid., (p. 288)
+12. Harold Macmillan, The Winds of Change, 1960 (Part 4, § C, Doc. 1, p. 295)
+13. Nelson Mandela, Nelson Mandela Explains the ANC Struggle, 1964 (Part 4, § C, Doc. 2, p. 301)
